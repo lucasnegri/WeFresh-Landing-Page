@@ -1,0 +1,13 @@
+:root {
+    --white: #fff;
+    --brown: #261013;
+    --black: #000;
+    --orange: rgba(242,140,16,1);
+    --orangetored: rgba(227,88,10,1);
+    --red: rgba(202,1,1,1);
+    --gradientlr: linear-gradient(90deg, rgba(242,140,16,1) 0%, rgba(227,88,10,1) 49%, rgba(202,1,1,1) 99%);
+    --gradientrl: linear-gradient(90deg, rgba(202,1,1,1) 0%, rgba(227,88,10,1) 49%, rgba(242,140,16,1) 100%);
+    --opensans: font-family: 'Open Sans', sans-serif;
+    --roboto: font-family: 'Roboto', sans-serif;
+    --prompt: font-family: 'Prompt', sans-serif;
+}
